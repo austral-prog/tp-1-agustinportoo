@@ -10,3 +10,13 @@ def swap():
     """
     x = 10
     y = 20
+
+    valor_original_x = x
+    valor_original_y = y
+    swap_de_x = (valor_original_y)
+    swap_de_y = (valor_original_x)
+
+    print(valor_original_x)
+    print(valor_original_y)
+    print(swap_de_x)
+    print(swap_de_y)
